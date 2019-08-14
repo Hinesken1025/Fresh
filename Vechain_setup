@@ -1,0 +1,7 @@
+>mkdir playgrounds
+>cd playgrounds/
+>git clone https://github.com/vechain/thor-sync.electron
+>cd thor-sync.electron/
+>node -v # Make sure you have node.js >V10.0.0 installed
+>npm install # Install dependencies
+>npm run dev # Boot the Sync in dev mode
